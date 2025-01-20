@@ -1,21 +1,20 @@
 🏁 🍇
 
-  💭 Define the class Person
-  🐖 👩‍💼 🍇
-    🖍🆕 firstname 🔡
-    🖍🆕 lastname 🔡
-    🖍🆕 creditcard 💳
+🐇 Person 🍇
+  🖍 🔡 name
+
+  🛠 init 🔡 🍇
+    🔡 name 🔜 🔤Alice🔤
   🍉
 
-  💭 Main program
-  🐇 🍇
-    💭 Create an instance of Person
-    🆕 👩‍💼 🍼 🔤Susan🔤 🍼 🔤Rodgers🔤 🍼 🆕💳 🔤48829284848291🔤 🔤12/22🔤 🔤513🔤❗️ 🍇
-      💭 Print the fields
-      👩‍💼's firstname 🔡❗️
-      👩‍💼's lastname 🔡❗️
-      👩‍💼's creditcard 💳❗️
-    🍉
+  🍎 printName ❗️🍇
+    🔤Name: 🔡 name ❗️
   🍉
+🍉
+
+🏁 🍇
+  🐕 person 🔜 🆕 Person 🍬 🔤Alice🔤❗️
+  person 🍎 printName ❗️
+🍉
 
 🍉
