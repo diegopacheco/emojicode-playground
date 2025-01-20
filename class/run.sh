@@ -1,6 +1,6 @@
 #!/bin/bash
 
-emojicodec hello.emojic -o main
+emojicodec main.emojic -o main
 ./main
 rm ./main
-rm ./hello.o
+rm ./main.o
